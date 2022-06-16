@@ -1,9 +1,6 @@
 # odin-recipes
 <!DOCTYPE html>
 <html>
-<head><title>Recipe Webproj</title>
-<meta charset"utf -8">
-</head>
 <body>
 <h1 >Odin Recipe site project.</h1>
 <p>Hello this project is going to be the first project of many throughout my journey at the Odin course.</p>
